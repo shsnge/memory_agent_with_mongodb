@@ -2,5 +2,5 @@ streamlit
 requests
 pymongo
 langgraph
+langgraph-checkpoint-mongodb
 langchain-google-genai
-
