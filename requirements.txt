@@ -1,0 +1,5 @@
+streamlit==1.29.0
+requests==2.31.0
+pymongo==4.5.0
+langgraph==0.1.27
+langchain-google-genai==0.1.13
